@@ -1,6 +1,6 @@
 //This program is a part of TechnoHacks Virtual Internship.
 
-//Task 7 :- ATM 
+//Task 7 :- ATM Simulator
 
 #include <stdio.h>
 
